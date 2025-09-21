@@ -11,13 +11,15 @@ Ubuntu 20.04 or higher
 <ins>**All the instructions for installation of required tools can be found here:**</ins>  
 
   1. iverilog
+     
      ```
      sudo apt-get install -y autoconf gperf make gcc g++ bison flex --assume-yes
-cd $HOME
-git clone https://github.com/steveicarus/iverilog.git
-cd iverilog
-sh autoconf.sh
-./configure
-make
-sudo make install
-```
+     cd $HOME
+     git clone https://github.com/steveicarus/iverilog.git
+     cd iverilog
+     sh autoconf.sh
+     ./configure
+     make
+     sudo make install
+     
+     ```  
