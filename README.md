@@ -126,6 +126,7 @@ make
 sudo make install
 ```
 <ins>7. OpenLane</ins>
+```
 echo "*********************************  Installing OpenLane dependancies   ********************************"
 #### step1. Installation of required packages
 sudo apt-get update --assume-yes
@@ -157,7 +158,8 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 sudo reboot # REBOOT!
 
-echo "****************************** Cloning OpenLane and will start installation of OpenLane*********************"
+
+echo "****************************** After System's Reboot Cloning OpenLane and will start installation of OpenLane*********************"
 
 #### step4. Checking the Docker Installation
 
