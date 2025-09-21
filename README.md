@@ -20,7 +20,9 @@ sh autoconf.sh
 ./configure  
  make  
 sudo make install  
-```  
+```
+<img width="812" height="188" alt="image" src="https://github.com/user-attachments/assets/f9949cd2-18ce-4cd3-a342-fe8246bcb313" />
+
 <ins>2. GTKWave</ins>  
 ```
 sudo apt update  
@@ -33,6 +35,8 @@ git clone "https://github.com/gtkwave/gtkwave.git"
 cd gtkwave  
 meson setup build && cd build && sudo meson install  
 ```
+<img width="810" height="143" alt="image" src="https://github.com/user-attachments/assets/f5c818dc-5093-48f7-9596-424a3ad042ce" />
+
 <ins>3. Yosys</ins>
 ```
 sudo apt-get update
@@ -47,6 +51,8 @@ make config-gcc
 make
 sudo make install
 ```
+<img width="815" height="148" alt="image" src="https://github.com/user-attachments/assets/68ed6e88-c2d6-442b-99b7-adc7be73be11" />
+
 <ins>4. ngspice</ins>
 ```
 sudo apt install libxaw7-dev libx11-dev libxext-dev libxt-dev --assume-yes
@@ -60,6 +66,8 @@ cd release
 make
 sudo make install
 ```
+<img width="807" height="172" alt="image" src="https://github.com/user-attachments/assets/8ee2662c-c00a-49ff-b13e-7d83baf93ac8" />
+
 <ins>5. magic</ins>
 ```
 echo "*********************************  Installing Magic dependancies   ********************************"
@@ -87,6 +95,8 @@ cd magic
 make
 sudo make install
 ```
+<img width="807" height="151" alt="image" src="https://github.com/user-attachments/assets/56059940-39ae-451b-a52d-1d44912d2f53" />
+
 <ins>6. OpenSTA</ins>
 ```
 echo "*********************************  Installing OpenSTA dependancies   ********************************"
@@ -125,6 +135,8 @@ cmake ..
 make
 sudo make install
 ```
+<img width="808" height="136" alt="image" src="https://github.com/user-attachments/assets/abedf7ed-1a3b-4e32-8c54-c68414f8af1d" />
+
 <ins>7. OpenLane</ins>
 ```
 echo "*********************************  Installing OpenLane dependancies   ********************************"
@@ -175,3 +187,5 @@ make
 make test
 
 ```
+<img width="825" height="283" alt="image" src="https://github.com/user-attachments/assets/4253dcaa-aa65-47cf-b7ea-170846fdf1ec" />
+
