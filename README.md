@@ -22,4 +22,17 @@ Ubuntu 20.04 or higher
      make
      sudo make install
      
-     ```  
+     ```
+     2. GTKWave
+        ```
+        sudo apt update
+        sudo apt install build-essential meson gperf flex desktop-file-utils libgtk-3-dev --assume-yes
+        sudo apt install libbz2-dev libjudy-dev libgirepository1.0-dev --assume-yes
+        sudo apt install cmake --assume-yes
+        sudo apt install libgtk-4-dev --assume-yes
+        cd $HOME
+        git clone "https://github.com/gtkwave/gtkwave.git"
+        cd gtkwave
+        meson setup build && cd build && sudo meson install
+
+        ```
