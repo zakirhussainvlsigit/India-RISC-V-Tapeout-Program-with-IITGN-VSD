@@ -1,4 +1,6 @@
 # India-RISC-V-Tapeout-Program-with-IITGN-VSD
 
-Week-0 activities involves, all Opensource EDA tools are required to be installed in the week-0. 
-[Tolls Installation ](week0.md)
+* Week-0 activities involves, all Opensource EDA tools are required to be installed in the week-0. 
+[Tolls Installation ](week0.md)  
+
+* Week-1 activities involves, Introduction to iverilog, gtkwave, vcd file, .lib file, simulation and synthesis. [Introduction to simulation and synthesis](week1.md)
