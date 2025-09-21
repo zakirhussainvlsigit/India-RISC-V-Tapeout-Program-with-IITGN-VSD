@@ -10,8 +10,7 @@ Ubuntu 20.04 or higher
 ## Tools Installation
 <ins>**All the instructions for installation of required tools can be found here:**</ins>  
 
-     <ins>1. iverilog</ins>  
-     
+<ins>1. iverilog</ins>  
      ```  
      sudo apt-get install -y autoconf gperf make gcc g++ bison flex --assume-yes  
      cd $HOME  
@@ -21,11 +20,8 @@ Ubuntu 20.04 or higher
      ./configure  
      make  
      sudo make install  
-     
-     ```  
-     
-     <ins>2. GTKWave</ins>  
-     
+    ```  
+<ins>2. GTKWave</ins>  
         ```
         sudo apt update  
         sudo apt install build-essential meson gperf flex desktop-file-utils libgtk-3-dev --assume-yes  
@@ -36,5 +32,4 @@ Ubuntu 20.04 or higher
         git clone "https://github.com/gtkwave/gtkwave.git"  
         cd gtkwave  
         meson setup build && cd build && sudo meson install  
-
         ```
