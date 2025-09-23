@@ -19,7 +19,7 @@
     - Once generic synthesis is done, now do the mapping to standard cells using the command\
       'abc -liberty standardCellsLibraryName' as shown below
       <img width="831" height="490" alt="image" src="https://github.com/user-attachments/assets/e29bbd7a-803c-4ce7-a993-bd2a02e619b2" />
-      once 'abc' command finished, you will see
+      - once 'abc' command finished, you will see
       <img width="682" height="222" alt="image" src="https://github.com/user-attachments/assets/db81cc7d-ac0d-4427-a985-c59a7b737cfe" />
 
 
