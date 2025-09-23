@@ -15,4 +15,9 @@
      
      <img width="1726" height="355" alt="image" src="https://github.com/user-attachments/assets/29ede5dd-85b6-48c5-8433-e645f420dd09" />
 
+   * Execute the a.out as shown below, which will dump the .vcd file. vcd= value change dump which is a file that contains the simulation result to view it in the waveform viewr tool such as GTKWave
+     
+     <img width="1052" height="248" alt="image" src="https://github.com/user-attachments/assets/4ea7ef41-8492-4cee-8ca2-c27738c1d019" />
+
+
 
