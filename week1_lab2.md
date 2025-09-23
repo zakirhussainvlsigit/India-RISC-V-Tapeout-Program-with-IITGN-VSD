@@ -23,7 +23,7 @@
  
      <img width="1315" height="135" alt="image" src="https://github.com/user-attachments/assets/64c2877f-07ef-4709-b7bd-55adf03df125" />
 
-   * Once waveform viewer is launced you will see the below, wherein i have shown 5 places they are for
+   * Once waveform viewer is launced you will see the below, wherein i have shown 5 places they are for  
           * 1. select the testbench name, it will show the signals as circled at 2
           * 2. double click the signal you want to see it in the place marked at 4
           * 3. click at the place marked 3 to see zoom fit view
