@@ -32,6 +32,9 @@
 
      <img width="1856" height="784" alt="image" src="https://github.com/user-attachments/assets/78ed5a72-463f-422e-89c6-e0e816a0cad0" />
 
+* Lab2 Introduction iverilog gtkwave part2
+   * In this lab how the testbench is written is discussed.
+
 
 
 
