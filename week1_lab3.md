@@ -16,6 +16,10 @@
       <img width="967" height="245" alt="image" src="https://github.com/user-attachments/assets/c5b4937d-35a6-408a-830c-f196ba612c8f" />
     - Once read, then type the command 'synth -top verilogModuleName' as shown below
       <img width="1239" height="303" alt="image" src="https://github.com/user-attachments/assets/4f973b7f-0a81-40ff-9a10-ac62c325aae8" />
+    - Once generic synthesis is done, now do the mapping to standard cells using the command\
+      'abc -liberty standardCellsLibraryName' as shown below
+      <img width="831" height="490" alt="image" src="https://github.com/user-attachments/assets/e29bbd7a-803c-4ce7-a993-bd2a02e619b2" />
+
 
 
 
