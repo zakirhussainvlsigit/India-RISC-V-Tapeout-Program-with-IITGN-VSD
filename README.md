@@ -6,3 +6,4 @@
 * Week-1 activities involves, Introduction to iverilog, gtkwave, vcd file, .lib file, simulation and synthesis.
    - [Lab1 Introduction to lab](week1_lab1.md)
    - [Lab2 Introduction to iverilog and GTKwave](week1_lab2.md)
+   - [Lab3 Labs using Yosys and Sky130 PDKs](week1_lab3.md)
