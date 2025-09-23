@@ -14,6 +14,9 @@
       <img width="1167" height="321" alt="image" src="https://github.com/user-attachments/assets/c330648b-15e2-486c-b57f-4bda76c53936" />
     - After reading you must see the below image
       <img width="967" height="245" alt="image" src="https://github.com/user-attachments/assets/c5b4937d-35a6-408a-830c-f196ba612c8f" />
+    - Once read, then type the command 'synth -top verilogModuleName' as shown below
+      <img width="1239" height="303" alt="image" src="https://github.com/user-attachments/assets/4f973b7f-0a81-40ff-9a10-ac62c325aae8" />
+
 
 
 
