@@ -10,8 +10,11 @@
     - To do the syntheis first invoke the yosys tool by typing the command 'yosys' and then read the liberty or standard cell library file using the command
       'read_liberty -lib standard_cell_library_name' as shown below
       <img width="1312" height="367" alt="image" src="https://github.com/user-attachments/assets/ebb65546-86e2-4672-8323-98bc8f143861" />
-    - Once liberty file is read the next step is to read the verilog file using the command 'read_verilog verilogFile.v' as shown below
+    - Once liberty file is read the next step is to read the verilog file using the command 'read_verilog verilogFile.v' as shown below. If more than one file then read the all the verilog files.
       <img width="1167" height="321" alt="image" src="https://github.com/user-attachments/assets/c330648b-15e2-486c-b57f-4bda76c53936" />
+    - After reading you must see the below image
+      <img width="967" height="245" alt="image" src="https://github.com/user-attachments/assets/c5b4937d-35a6-408a-830c-f196ba612c8f" />
+
 
 
 
