@@ -4,4 +4,4 @@
 [Tools Installation ](week0.md)  
 
 * Week-1 activities involves, Introduction to iverilog, gtkwave, vcd file, .lib file, simulation and synthesis.
-   ** [Clone the required GitHub repository for the labs](week1.md)
+   - [Clone the required GitHub repository for the labs](week1.md)
