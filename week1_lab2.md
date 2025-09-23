@@ -24,11 +24,11 @@
      <img width="1315" height="135" alt="image" src="https://github.com/user-attachments/assets/64c2877f-07ef-4709-b7bd-55adf03df125" />
 
    * Once waveform viewer is launced you will see the below, wherein i have shown 5 places they are for  
-          * 1. select the testbench name, it will show the signals as circled at 2
-          * 2. double click the signal you want to see it in the place marked at 4
-          * 3. click at the place marked 3 to see zoom fit view
-          * 4. marked 4 is the place where you see your signals inputs and outputs that you have added them by double clicking at marked place 2
-          * 5. select the any signal and then marked at 5 place you can navigate to signal transitions
+          * 1. select the testbench name, it will show the signals as circled at 2  
+          * 2. double click the signal you want to see it in the place marked at 4  
+          * 3. click at the place marked 3 to see zoom fit view  
+          * 4. marked 4 is the place where you see your signals inputs and outputs that you have added them by double clicking at marked place 2  
+          * 5. select the any signal and then marked at 5 place you can navigate to signal transitions  
 
      <img width="1856" height="784" alt="image" src="https://github.com/user-attachments/assets/78ed5a72-463f-422e-89c6-e0e816a0cad0" />
 
