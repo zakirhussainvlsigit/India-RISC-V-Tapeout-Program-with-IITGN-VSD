@@ -27,6 +27,14 @@
 - Lab3 Yosys 1 good mux Part2:\
   It is explaion of the part-1 outcome
 
+- Lab3 Yosys 1 good mux Part3:\
+     - How to write netlist file: type command 'write_verilog -noattr netListFileName.v' as shown below
+       <img width="1321" height="197" alt="image" src="https://github.com/user-attachments/assets/a2dcc369-12bf-41e8-9ce5-4864ac7ead42" />
+     - See the below image of text based netlist file, in which check the marked with 2 the standard cell which matches the graphically above shown figure.
+       <img width="1348" height="722" alt="image" src="https://github.com/user-attachments/assets/170e1b53-e677-4493-845e-c206745e4168" />
+
+
+
 
 
 
