@@ -17,7 +17,7 @@
        <img width="794" height="615" alt="image" src="https://github.com/user-attachments/assets/5da2e935-4450-4fc3-aaca-aa3fe1c0f516" />
           - Another AND gate but with different area
        <img width="800" height="616" alt="image" src="https://github.com/user-attachments/assets/24b2412b-b705-4098-881e-8b38258f0e11" />
-### Hierarchical vs Flat Synthesis
+### Lab5 Hierarchical vs Flat Synthesis
 - Lab05 Hierarchical synthesis vs flat synthesis part1 [Example is multiple modules\]
   <img width="882" height="362" alt="image" src="https://github.com/user-attachments/assets/b4fbf4db-5e52-4d1c-a7df-04e09013a5e6" />
   <img width="821" height="591" alt="image" src="https://github.com/user-attachments/assets/4eb6f216-a281-4382-a574-eef96e5d030d" />
@@ -35,6 +35,7 @@
        <img width="1673" height="401" alt="image" src="https://github.com/user-attachments/assets/4e142bcf-644a-419b-af52-b7aab0282a28" />
      - The following is the netlist file
        <img width="1513" height="749" alt="image" src="https://github.com/user-attachments/assets/4c608b12-3832-4aa0-9c2c-83a914326396" />
+### Various Flop Coding Styles and optimization
 
 
 
