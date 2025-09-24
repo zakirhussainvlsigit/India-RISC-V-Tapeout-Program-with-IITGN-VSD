@@ -33,6 +33,9 @@
        <img width="857" height="627" alt="image" src="https://github.com/user-attachments/assets/f61066c8-389a-4947-acd5-86c9d64d0ca6" />
      - The corresponding flattned image is shown below
        <img width="1673" height="401" alt="image" src="https://github.com/user-attachments/assets/4e142bcf-644a-419b-af52-b7aab0282a28" />
+     - The following is the netlist file
+       <img width="1513" height="749" alt="image" src="https://github.com/user-attachments/assets/4c608b12-3832-4aa0-9c2c-83a914326396" />
+
 
 
 
