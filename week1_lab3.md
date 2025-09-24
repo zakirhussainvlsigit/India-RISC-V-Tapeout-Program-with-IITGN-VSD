@@ -24,6 +24,8 @@
      - To visualize graphically type the command 'show' as shown below and you will see
        <img width="757" height="257" alt="image" src="https://github.com/user-attachments/assets/477b5f8a-76f0-4430-9fe2-d89819b8ee3b" />
        <img width="603" height="382" alt="image" src="https://github.com/user-attachments/assets/e156c8d6-06fb-4811-9c1a-14661498b2a5" />
+- Lab3 Yosys 1 good mux Part2:\
+  It is explaion of the part-1 outcome
 
 
 
