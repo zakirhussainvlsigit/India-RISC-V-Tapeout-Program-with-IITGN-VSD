@@ -1,7 +1,7 @@
 # Combinational logic optimizations
 
-- Lab06 Combinational Logic Optimisations part1  
-      Module of following sort been discussed\
+- Lab06 Combinational Logic Optimisations part1\
+        - Module of following sort been discussed\
             - example 1:\
 <img width="616" height="110" alt="image" src="https://github.com/user-attachments/assets/1eae25ce-4000-4314-bf80-a88008950b8f" />
             - example 2:\
