@@ -8,7 +8,8 @@
      - Writing hierarchical netlist file
        <img width="781" height="316" alt="image" src="https://github.com/user-attachments/assets/34a53332-d93c-4923-9097-de23efb60d36" />
      - Hierarchical netlist shown below
-       <img width="1389" height="913" alt="image" src="https://github.com/user-attachments/assets/333d6436-c163-4e5d-b84b-9262d93623b1" />
+       <img width="1389" height="913" alt="image" src="https://github.com/user-attachments/assets/333d6436-c163-4e5d-b84b-9262d93623b1" />  
+       
 ### Lab05 Hierarchical synthesis vs flat synthesis part2 [Example is multiple modules\] : Flat synthesis
 - Lab05 Hierarchical synthesis vs flat synthesis part2 [Example is multiple modules\]
      - Flat synthesis shown below with command 'flatten'
