@@ -7,3 +7,4 @@
 5. [Lab5: Hierarchical vs Flat Synthesis](week1_lab5.md)
 6. [Lab6: Combinational logic optimizations](week1_lab6.md)
 7. [week1_day4_Labs on GLS and Synthesis-Simulation-Mismatch](week1_day4_Labs_on_GLS_and_Synthesis_Simulation_Mismatch)
+8. [week1_Day_5_Optimization_in_synthesis](week1_Day_5_Optimization_in_synthesis)
