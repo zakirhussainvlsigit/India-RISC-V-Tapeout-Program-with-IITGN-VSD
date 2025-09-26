@@ -42,13 +42,10 @@
          <img width="1347" height="641" alt="image" src="https://github.com/user-attachments/assets/cf7470b8-d9fe-40e9-bb4e-4608f207743d" />
 
 
- 
-       - 
+     - Lab GLS Synth Sim Mismatch part2 : In this lab for badly coded MUX2x1 behavior is shown before GLS and after GLS
 
+       <img width="1347" height="272" alt="image" src="https://github.com/user-attachments/assets/4251b43c-e422-41d6-910e-aa37665f6f28" />
 
-
-
-     - Lab GLS Synth Sim Mismatch part2
 
 
 
