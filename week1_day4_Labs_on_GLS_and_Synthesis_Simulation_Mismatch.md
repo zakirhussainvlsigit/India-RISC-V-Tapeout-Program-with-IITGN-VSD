@@ -21,6 +21,11 @@
          
        <img width="919" height="168" alt="image" src="https://github.com/user-attachments/assets/8aa31145-51c1-46aa-9a4c-2680ebb23231" />
 
+       - Simulation result of the mux2x1
+
+         <img width="1352" height="641" alt="image" src="https://github.com/user-attachments/assets/15e6d5c4-8662-43bc-b4e3-b325db432bf6" />
+
+
 
  
 
