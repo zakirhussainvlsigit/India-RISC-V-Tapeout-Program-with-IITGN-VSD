@@ -6,6 +6,13 @@
 - Lab Incomplete IF part2
 
 - Lab incomplete overlapping Case part1
+<img width="1048" height="387" alt="image" src="https://github.com/user-attachments/assets/a13aa659-5737-4d4e-8ea9-a4fa9354c5f9" />
+<img width="1082" height="328" alt="image" src="https://github.com/user-attachments/assets/4a4b68aa-d083-46aa-af4c-4d5f94fa61a7" />
+<img width="1468" height="467" alt="image" src="https://github.com/user-attachments/assets/1d067731-a354-4609-a51b-94ff1c2f5bc1" />
+<img width="1218" height="439" alt="image" src="https://github.com/user-attachments/assets/bc7521f5-3012-498a-aa57-607bf16e9507" />
+
+
+
 
 - Lab incomplete overlapping Case part2
 
