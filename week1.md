@@ -5,6 +5,6 @@
 3. [Lab3: Labs using Yosys and Sky130 PDKs](week1_lab3.md)
 4. [Lab4: Introduction to timing .libs](week1_lab4.md)
 5. [Lab5: Hierarchical vs Flat Synthesis](week1_lab5.md)
-6. [week1_Day_3 _Combinational_and_sequential_optmizations.md](week1_Day_3 _Combinational_and_sequential_optmizations.md)
+6. [week1_Day_3 _Combinational_and_sequential_optmizations](week1_Day_3 _Combinational_and_sequential_optmizations.md)
 7. [week1_Day_4_Labs on GLS and Synthesis-Simulation-Mismatch](week1_day4_Labs_on_GLS_and_Synthesis_Simulation_Mismatch.md)
 8. [week1_Day_5_Optimization_in_synthesis](week1_Day_5_Optimization_in_synthesis.md)
