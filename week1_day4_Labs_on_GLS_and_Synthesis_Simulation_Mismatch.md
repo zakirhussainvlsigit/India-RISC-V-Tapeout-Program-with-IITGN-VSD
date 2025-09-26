@@ -16,7 +16,7 @@
       - execute the a.out in the terminal ./a.out, this will generate the .vcd file
       - See that as shown in the below figure
        <img width="882" height="183" alt="image" src="https://github.com/user-attachments/assets/b9c876b6-58ce-47ad-9998-6b12394927a7" />
-      - Use gtkwave with .vcd file, to view the waveform, as shown below
+       - Use gtkwave with .vcd file, to view the waveform, as shown below
        <img width="919" height="168" alt="image" src="https://github.com/user-attachments/assets/8aa31145-51c1-46aa-9a4c-2680ebb23231" />
 
 
