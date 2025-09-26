@@ -1,3 +1,11 @@
 # Labs on GLS and Synthesis-Simulation Mismatch
 
+GLS= Gate Level Simulation\
+
+- Todo the gate level simulation we need the following 3 files\
+   - 1. standard cells verilog model files
+   - 2. netlist file
+   - 3. testbench file
+
+
 - Lab GLS Synth Sim Mismatch part1
