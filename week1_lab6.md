@@ -11,4 +11,7 @@
 
 
 
-- Lab06 Combinational Logic Optimisations part2
+- Lab06 Combinational Logic Optimisations part2\
+          - example 3:\
+  <img width="1203" height="180" alt="image" src="https://github.com/user-attachments/assets/dffe44c9-1552-4c76-9272-d903fb907745" />
+
