@@ -1,6 +1,6 @@
 # Day 3 - Combinational and sequential optmizations
 
-### Combinational logic optimizations
+### Lab06 Combinational logic optimizations
 
 - Lab06 Combinational Logic Optimisations part1
    - Module of following sort been discussed
@@ -24,5 +24,11 @@
 
      - example 6:
        <img width="1373" height="412" alt="image" src="https://github.com/user-attachments/assets/fe04a668-199d-4f41-b0a7-36106e6653e8" />
+
+### Lab07 Sequential Logic Optimisations
+
+- Lab07 Sequential Logic Optimisations part1
+- Lab07 Sequential Logic Optimisations part2
+- Lab07 Sequential Logic Optimisations part3
 
 
