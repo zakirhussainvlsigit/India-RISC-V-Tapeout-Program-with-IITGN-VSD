@@ -45,4 +45,10 @@
     - example-3: Simulation and Synthesis
        <img width="1218" height="495" alt="image" src="https://github.com/user-attachments/assets/a0fd72d8-5a7d-4b3e-b981-92295d15fdfc" />
 
+    - Other examples:
+      <img width="1205" height="516" alt="image" src="https://github.com/user-attachments/assets/dd9d0a61-98f1-4954-9788-9a039ccc93d6" />
+      <img width="1227" height="513" alt="image" src="https://github.com/user-attachments/assets/66f98b05-3d80-4b02-afc9-f4b80730172f" />
+
+
+
 
