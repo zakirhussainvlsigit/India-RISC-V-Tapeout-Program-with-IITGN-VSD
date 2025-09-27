@@ -28,7 +28,21 @@
 ### Lab07 Sequential Logic Optimisations
 
 - Lab07 Sequential Logic Optimisations part1
-- Lab07 Sequential Logic Optimisations part2
+   - example-1
+  <img width="1141" height="345" alt="image" src="https://github.com/user-attachments/assets/e86025c7-f77d-4c4f-8c4e-8affc24fd2f5" />
+
+   - example-2: Simulation
+     <img width="1337" height="403" alt="image" src="https://github.com/user-attachments/assets/1ee3319a-3d12-4869-a865-687cf3332ed9" />
+
+  - Lab07 Sequential Logic Optimisations part2
+     - example-2: Synthesis
+        <img width="1337" height="403" alt="image" src="https://github.com/user-attachments/assets/1ee3319a-3d12-4869-a865-687cf3332ed9" />
+
+      - example-3: Explanation 
+       <img width="1218" height="495" alt="image" src="https://github.com/user-attachments/assets/a0fd72d8-5a7d-4b3e-b981-92295d15fdfc" />
+
 - Lab07 Sequential Logic Optimisations part3
+    - example-3: Simulation and Synthesis
+       <img width="1218" height="495" alt="image" src="https://github.com/user-attachments/assets/a0fd72d8-5a7d-4b3e-b981-92295d15fdfc" />
 
 
