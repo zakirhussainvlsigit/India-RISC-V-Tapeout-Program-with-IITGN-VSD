@@ -6,3 +6,7 @@
 
 ### [Click me to know Lab Activities](week2_BabySoC_Lab.md)
 
+### Click the following link for Lab Deliverables  
+[Click me for the Lab: Required resources](SoC_Lab_BabySoC.md)
+[Click me for the Lab: Simulation results](SoC_Lab_BabySoC_2.md)
+
