@@ -22,6 +22,3 @@ the **BabySoC** using simulation tools (**Icarus Verilog** & **GTKWave**).
 ## Deliverable
 - A **1–2 page write-up** on GitHub summarizing your understanding of SoC design fundamentals  
 - Explanation of how **BabySoC** fits into this learning journey  
-
-## Check the following for Deliverables
-[Click me to know the SoC design fundamentals](SoC_Fundamentals_BabySoC.md)
