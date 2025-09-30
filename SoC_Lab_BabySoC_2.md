@@ -6,7 +6,7 @@
 ### Do the cd VSDBabySoC/
 <img width="808" height="272" alt="image" src="https://github.com/user-attachments/assets/ad99ee32-92c6-4f3f-88a0-dd17263fdd5f" />  
 
-### We require to do the following
+### We require to do the following, in order to do, make pre_synth_sim
 
 ```
 # We need the following:
