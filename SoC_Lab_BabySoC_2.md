@@ -24,8 +24,8 @@ deactivate
 ### Next
 <img width="823" height="248" alt="image" src="https://github.com/user-attachments/assets/850bf3d1-eab9-4c6d-bbd8-b1b22056e474" />  
 
-### Next
-$ cd VSDBabySoC
+### Next  
+$ cd VSDBabySoC  
 $ make pre_synth_sim  
 
 <img width="858" height="292" alt="image" src="https://github.com/user-attachments/assets/007d6b7d-c6d3-40c3-ab88-9dc3a711469e" />
