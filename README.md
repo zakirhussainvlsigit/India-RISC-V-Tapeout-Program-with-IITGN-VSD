@@ -14,7 +14,7 @@
 
 * <ins>**Week-2 Activities Involves:**</ins>
    * Research : BabySoC Fundamentals & Functional Modelling
-        * Part1 Theory (Conceptual Understanding)
+        * Part1 Theory (Conceptual Understanding)  
           [Check this doc for theory activities ](week2-part1-theory.pdf)
-        * 3-on Functional Modelling)
+        * 3-on Functional Modelling)  
           [Check this for lab activities](week2-part2-lab.pdf)
