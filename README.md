@@ -18,3 +18,4 @@
           [Check this doc for theory activities ](week2-part1-theory.pdf)
         * Part2 on Functional Modelling  
           [Check this for lab activities](week2-part2-lab.pdf)
+  * [Click me to find the week-2 activities](week2_BabySoC.md)
