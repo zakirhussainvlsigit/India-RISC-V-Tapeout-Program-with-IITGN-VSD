@@ -34,6 +34,10 @@ $ make pre_synth_sim
 <img width="1472" height="652" alt="image" src="https://github.com/user-attachments/assets/955aa0af-a9cb-4edc-9e0c-4197a7b9bd49" />  
 
 ### Next
+<img width="1481" height="828" alt="image" src="https://github.com/user-attachments/assets/9ca6569a-f04f-460b-ab8e-3ccef2a185e5" />
+
+
+### Next
 <img width="650" height="78" alt="image" src="https://github.com/user-attachments/assets/5613d1a6-10c0-40b7-af24-8fa5f1b1b25e" />  
 
 ### Next
