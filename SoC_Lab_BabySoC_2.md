@@ -11,11 +11,13 @@
 ```
 # We need the following:
 pip3 install pyyaml click sandpiper-saas
-# For the 1st time do the following:
+## For the 1st time do the following:
 python3 -m venv myenv
 source myenv/bin/activate
 pip install pyyaml click sandpiper-saas
-# Deactivate the virtual environment (when you're done):
+### From the next time
+source ~/myenv/bin/activate
+#### Deactivate the virtual environment (when you're done):
 When you're done working, you can deactivate the virtual environment with:
 deactivate
 ```
