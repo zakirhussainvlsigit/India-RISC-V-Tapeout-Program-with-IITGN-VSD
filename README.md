@@ -1,6 +1,6 @@
 # India-RISC-V-Tapeout-Program-with-IITGN-VSD
 
-* <ins>**Week-0 Activities Involves:**</ins> All Opensource EDA tools are required to be installed in the week-0. 
+* <ins>**Week-0 Activities Involves:**</ins> All Opensource EDA tools are required to be installed in the week-0.  
 [Tools Installation ](week0.md)  
 
 * <ins>**Week-1 Activities Involves:**</ins>
