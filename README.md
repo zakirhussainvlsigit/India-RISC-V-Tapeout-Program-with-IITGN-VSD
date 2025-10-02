@@ -4,11 +4,11 @@
     * [Tools Installation ](week0.md)  
 
 * <ins>**Week-1 Activities Involves:**</ins>
-   * Day 1: Introduction to iverilog, gtkwave, vcd file, .lib file, simulation and synthesis
-   * Day 2: Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
-   * Day 3 - Combinational and sequential optmizations
-   * Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
-   * Day 5 - Optimization in synthesis
+      * Day 1: Introduction to iverilog, gtkwave, vcd file, .lib file, simulation and synthesis
+      * Day 2: Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
+      * Day 3 - Combinational and sequential optmizations
+      * Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+      * Day 5 - Optimization in synthesis
      
     * [Click me to find the week-1 Labs](week1.md)
 
