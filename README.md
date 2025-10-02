@@ -10,7 +10,7 @@
    * Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
    * Day 5 - Optimization in synthesis
      
-* [Click me to find the week-1 Labs](week1.md)
+    * [Click me to find the week-1 Labs](week1.md)
 
 * <ins>**Week-2 Activities Involves:**</ins>
    * Research : BabySoC Fundamentals & Functional Modelling
