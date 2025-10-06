@@ -30,3 +30,9 @@ All open-source EDA tools are required to be installed in Week-0.
   📄 [Lab Activities](week2-part2-lab.pdf)
 
 👉 [Click here for Week-2 Activities](week2_BabySoC.md)
+
+---
+
+## Week-3 Activities
+
+👉 [Click here for Week-3 Activities](week3/week3.md)
