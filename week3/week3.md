@@ -37,7 +37,7 @@ To understand and perform **Gate-Level Simulation (GLS)** after synthesis, valid
 ### 📚 Learning Resource
 
 If STA is new to you, start with this **free foundational course (free for 4 days)**:
-👉 [STA Fundamentals – Udemy](https://www.udemy.com/course/vlsi-academy-stachecks/?couponCode=F960AEDD365E0CD12546)
+👉 [STA Fundamentals – Udemy](https://www.udemy.com/course/vlsi-academy-sta-checks/?couponCode=F960AEDD365E0CD12546)
 
 ### 🧠 Focus Topics
 
