@@ -1,5 +1,3 @@
-Here’s your **Week 3 Task** formatted neatly for a **GitHub Markdown (`.md`)** file:
-
 ---
 
 # Week 3 Task - Post-Synthesis GLS & STA Fundamentals
@@ -86,5 +84,3 @@ If STA is new to you, start with this **free foundational course (free for 4 day
 3. Generate **timing graphs** using **OpenSTA** and interpret **timing paths**.
 
 ---
-
-Would you like me to add Markdown formatting enhancements like collapsible sections (`<details>` tags), emoji headers, or a table-style summary for deliverables (for a more professional GitHub README look)?
