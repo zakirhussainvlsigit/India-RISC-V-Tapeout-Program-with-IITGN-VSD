@@ -8,7 +8,7 @@ To understand and perform **Gate-Level Simulation (GLS)** after synthesis, valid
 
 ---
 
-## The following are the Wee 3 Tasks
+## The following are the Week 3 Tasks
 
 - **Part 1 – Post-Synthesis GLS**  
   📄 [Part-1 Activities](week3/week3_p1_Post_Synthesis_GLS.md)
