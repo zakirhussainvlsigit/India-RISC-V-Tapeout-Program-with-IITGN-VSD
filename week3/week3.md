@@ -8,6 +8,19 @@ To understand and perform **Gate-Level Simulation (GLS)** after synthesis, valid
 
 ---
 
+## The following are the Wee 3 Tasks
+
+- **Part 1 – Post-Synthesis GLS**  
+  📄 [Part-1 Activities](week3/week3_p1_Post_Synthesis_GLS.md)
+
+- **Part 2 – Fundamentals of STA (Static Timing Analysis)**  
+  📄 [Part-2 Activities](week3/week3_p2_Fundamentals_of_STA.md)
+
+- **Part 3 – Generate Timing Graphs with OpenSTA**  
+  📄 [Part-3 Activities](week3/week3_p3_Generate_Timing_Graphs_with_OpenSTA.md)
+
+---
+
 ## 🧩 Part 1 – Post-Synthesis GLS
 
 ### Reference
