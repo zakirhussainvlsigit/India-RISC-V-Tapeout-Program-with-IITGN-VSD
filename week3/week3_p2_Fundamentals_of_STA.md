@@ -192,5 +192,3 @@ set_clock_latency -source 0.10 [get_clocks CORE_CLK]
 > Static Timing Analysis ensures that digital designs meet timing across all conditions by evaluating every possible timing path — **without simulation** — using well-defined clocks, constraints, and path-based accuracy refinements.
 
 ---
-
-```
