@@ -194,4 +194,3 @@ set_clock_latency -source 0.10 [get_clocks CORE_CLK]
 ---
 
 ```
----
