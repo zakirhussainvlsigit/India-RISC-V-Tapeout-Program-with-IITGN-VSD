@@ -41,6 +41,9 @@ It outputs a **10-bit digital signal (`OUT`)** to be converted by the DAC.
 
 Clone it from the following link:  
 [rvmyth](https://github.com/kunalg123/rvmyth/)
+```
+git clone https://github.com/kunalg123/rvmyth.git
+```
 
 ---
 
