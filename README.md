@@ -37,7 +37,7 @@ All open-source EDA tools are required to be installed in Week-0.
 
 **The following link will provide the details of Week-3 Activities**
 
-👉 [Click here for Week-3 Activities](week3/week3.md)
+👉 [Click here for Week-3 Activities](week3)
 
 - **Part 1 – Post-Synthesis GLS**  
   📄 [Part-1 Activities](week3/week3_p1_Post_Synthesis_GLS.md)
