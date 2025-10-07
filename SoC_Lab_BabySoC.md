@@ -63,3 +63,6 @@ The **dac** module converts the **10-bit digital signal** from the `rvmyth` core
 
 Clone it from the following link:  
 [avsddac](https://github.com/vsdip/rvmyth_avsddac_interface.git)
+```
+git clone https://github.com/vsdip/rvmyth_avsddac_interface.git
+```
