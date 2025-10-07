@@ -52,6 +52,9 @@ The **pll** module is a Phase-Locked Loop that generates a stable clock (`CLK`) 
 
 - [Introduction](https://github.com/ireneann713/PLL.git)  
 - Clone it from the following link: [avsdpll](https://github.com/lakshmi-sathi/avsdpll_1v8.git)
+  ```
+  git clone https://github.com/lakshmi-sathi/avsdpll_1v8.git
+  ```
 
 ---
 
