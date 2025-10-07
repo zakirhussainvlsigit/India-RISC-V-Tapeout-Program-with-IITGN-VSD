@@ -32,14 +32,6 @@ It examines all possible timing paths to ensure they meet **setup and hold const
 
 ---
 
-Ah, excellent observation 👍 — the problem is just with **how your code fences (```) are nested**.
-
-Markdown doesn’t allow *multiple overlapping triple backtick blocks* — once you open a code block with ```, you must **not open another one** until you close the first.
-
-In your pasted version, there are **extra and misplaced backticks**, which breaks Markdown rendering and causes the ASCII diagram to vanish or render incorrectly.
-
----
-
 ---
 
 
