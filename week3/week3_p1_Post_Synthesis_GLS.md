@@ -108,7 +108,10 @@ iverilog -o /home/zakir/Desktop/week3Labs/part1/post_synth_sim/post_synth_sim.ou
 cd post_synth_sim/
 ```
 
-<img width="1330" height="158" alt="image" src="https://github.com/user-attachments/assets/ccb2c0eb-d1fc-477e-87e6-ae377d94809c" />
+<img width="1330" height="158" alt="image" src="https://github.com/user-attachments/assets/ccb2c0eb-d1fc-477e-87e6-ae377d94809c" />  
+```
+run the .out file as shown below, which will produce .vcd file.
+```
 
 <img width="1242" height="327" alt="image" src="https://github.com/user-attachments/assets/b50d5519-040f-4daa-9b56-cf44eda74491" />
 
