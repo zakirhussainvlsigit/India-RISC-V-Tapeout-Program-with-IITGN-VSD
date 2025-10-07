@@ -60,7 +60,7 @@ Data Launch ---->------------------------------>
 ```
 
 #### Markdown Diagram (SVG)
-![Setup and Hold Timing Diagram](https://upload.wikimedia.org/wikipedia/commons/5/54/Setup_and_hold_time_diagram.svg)
+[Setup and Hold Timing Diagram](https://upload.wikimedia.org/wikipedia/commons/5/54/Setup_and_hold_time_diagram.svg)
 
 **Interpretation:**
 - **Setup Check:** Data must arrive *before* the capture edge by the setup time.  
