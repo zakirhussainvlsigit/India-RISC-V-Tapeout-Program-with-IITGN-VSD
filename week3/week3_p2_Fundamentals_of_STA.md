@@ -40,36 +40,6 @@ In your pasted version, there are **extra and misplaced backticks**, which break
 
 ---
 
-### 📊 Timing Window Illustration
-
-#### ASCII Timing Diagram
-
-```
-
-|<-------- Clock Period (T) -------->|
-
----
-
-CLK *|       |*____**|       |**_****|       |****__
-
-```
-     ^        ^ 
-     |        |
-     |        +-- Capture Edge
-     |
-     +-- Launch Edge
-```
-
-Data Launch ---->------------------------------>
-|<--- Setup --->|
-|<Hold>|
-
-```
-
-#### Markdown Diagram (SVG)
-[Setup and Hold Timing Diagram](https://upload.wikimedia.org/wikipedia/commons/5/54/Setup_and_hold_time_diagram.svg)
-```
-
 ---
 
 
