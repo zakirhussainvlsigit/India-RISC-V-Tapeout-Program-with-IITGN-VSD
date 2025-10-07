@@ -47,8 +47,9 @@ synth -top vsdbabysoc
   <img width="710" height="856" alt="image" src="https://github.com/user-attachments/assets/0023e38f-9dd5-4216-ade5-291a299c7377" />
 
   ## Step 4: Sequential logic map it to D Flip-Flops from Standard Cells
-
-  - dfflibmap -liberty /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+  ```
+dfflibmap -liberty /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+```
 
     <img width="1188" height="55" alt="image" src="https://github.com/user-attachments/assets/6ea0247a-8975-40da-8414-a7321b97c891" />
 
