@@ -32,8 +32,9 @@ read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/sky130_fd_
 ---
 
 ## Step 3: Run Synthesis use top module name, which is vsdbabysoc
-
-- synth -top vsdbabysoc
+```
+synth -top vsdbabysoc
+```
   
   <img width="1151" height="751" alt="image" src="https://github.com/user-attachments/assets/373ea46a-0cc5-4c0a-81c2-b7a43f0f9b37" />
 
