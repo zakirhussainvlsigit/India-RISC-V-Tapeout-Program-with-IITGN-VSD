@@ -117,5 +117,11 @@ run the .out file as shown below, which will produce the .vcd file.
 <img width="1242" height="327" alt="image" src="https://github.com/user-attachments/assets/b50d5519-040f-4daa-9b56-cf44eda74491" />
 
 <img width="1147" height="272" alt="image" src="https://github.com/user-attachments/assets/37c43703-3b5d-4825-b4a0-35704de37ba4" />
+```
+Now type: gtkwave post_synth_sim.vcd
+```
+
+<img width="900" height="334" alt="image" src="https://github.com/user-attachments/assets/49793d17-3dcc-4160-93d7-49a66900d637" />
+
 
 <img width="1858" height="893" alt="image" src="https://github.com/user-attachments/assets/181241a7-f687-4f8a-8f30-f7d2ec96662a" />
