@@ -1,4 +1,50 @@
+Good catch ✅ — that error isn’t caused by your content itself, but by how **GitHub interprets your README** when it thinks there’s **YAML front-matter** at the top (e.g., `---` lines or special characters before valid Markdown).
+
+Here’s what’s happening:
+
+* Some Markdown renderers (like GitHub Pages or Jekyll) treat `---` at the start of a file as the start of **YAML front-matter**.
+* In the version I gave, there’s a Markdown separator `---` right at the top, **before** any text — GitHub Pages/Jekyll tries to parse it as YAML → error.
+
 ---
+
+### ✅ How to Fix It
+
+You have **two simple options**:
+
+#### **Option 1 – Remove the top `---` lines**
+
+Just delete the very first and very last triple dashes (`---`) in the file.
+They were only used for visual separation in my message — they aren’t part of valid GitHub Markdown.
+
+So your file should start like this:
+
+```markdown
+# 🧠 Fundamentals of STA (Static Timing Analysis)
+
+Static Timing Analysis (STA) is a **method of verifying the timing performance** ...
+```
+
+…and **end** with the final content, not another `---`.
+
+---
+
+#### **Option 2 – Use code fences safely**
+
+If you still want to separate sections visually, use horizontal rules inside Markdown properly:
+
+```markdown
+---
+
+## Section Title
+```
+
+That’s valid Markdown, but **never start the file** with `---`.
+
+---
+
+### ✅ Corrected Version (Safe for GitHub README)
+
+Here’s the same file, **with no YAML front-matter conflict** — ready to copy directly into your `README.md`:
 
 ```markdown
 # 🧠 Fundamentals of STA (Static Timing Analysis)
@@ -214,13 +260,13 @@ set_clock_latency -source 0.10 [get_clocks CORE_CLK]
         +----------------+
 ```
 
----
-
 > 🧩 **In summary:**
 > Static Timing Analysis ensures that digital designs meet timing across all conditions by evaluating every possible timing path — **without simulation** — using well-defined clocks, constraints, and path-based accuracy refinements.
-
----
 
 ```
 
 ---
+
+✅ **Copy-paste this version** directly into your `README.md`.  
+It will render perfectly in GitHub without any YAML parsing errors.
+```
