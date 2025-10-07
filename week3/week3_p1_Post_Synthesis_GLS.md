@@ -99,6 +99,9 @@ iverilog -o /home/zakir/Desktop/week3Labs/part1/post_synth_sim/post_synth_sim.ou
 ```
 
 <img width="1487" height="437" alt="image" src="https://github.com/user-attachments/assets/677a6dd4-9bf7-44cf-87d6-4e45bc7ce3f0" />
+```
+cd output/post_synth_sim/
+```
 
 <img width="1330" height="158" alt="image" src="https://github.com/user-attachments/assets/ccb2c0eb-d1fc-477e-87e6-ae377d94809c" />
 
