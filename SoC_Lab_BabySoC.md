@@ -19,7 +19,10 @@ This project demonstrates integration of these IP cores and aims to simulate and
 ## Clone VSDBabySoC
 Clone the repository from the following link:  
 [VSDBabySoC](https://github.com/manili/VSDBabySoC.git)  
-https://github.com/kunalg123/rvmyth.git
+
+```
+git clone https://github.com/kunalg123/rvmyth.git
+```
 
 ---
 
