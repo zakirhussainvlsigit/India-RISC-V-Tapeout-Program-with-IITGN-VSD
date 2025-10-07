@@ -60,7 +60,7 @@ Required Arrival Time = 5.00 ns
 Actual Arrival Time   = 4.75 ns
 Slack = +0.25 ns (Positive)
 
-````
+```
 
 > 🧭 **Note:** The goal of timing closure is to achieve **non-negative slack** on *all* paths under all process-voltage-temperature (PVT) corners.
 
@@ -85,11 +85,11 @@ Clocks dictate *when* data is launched and captured across timing paths.
 | **Generated Clock** | Derived from another clock source (e.g., dividers, PLLs) | `create_generated_clock` |
 
 ### 📜 Example: SDC (Synopsys Design Constraints)
-```tcl
+```
 create_clock -name CORE_CLK -period 2.0 [get_ports clk]
 set_clock_uncertainty 0.05 [get_clocks CORE_CLK]
 set_clock_latency -source 0.10 [get_clocks CORE_CLK]
-````
+```
 
 > Proper clock definition is fundamental — STA tools depend on it to build the **timing graph** and apply **setup/hold checks**.
 
