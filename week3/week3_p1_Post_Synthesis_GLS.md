@@ -17,6 +17,11 @@ read_verilog -I /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/include /home/za
 ---
 
 ## Step 2: read the standard cell library, liberty file
+```
+read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/avsdpll.lib
+read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/avsddac.lib
+read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+```
 
 <img width="1127" height="573" alt="image" src="https://github.com/user-attachments/assets/f29ad963-02e6-4f30-9f21-dfc7f59bb9a6" />
 
