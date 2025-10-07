@@ -92,13 +92,18 @@ write_verilog -noattr /home/zakir/Desktop/week3Labs/part1/post_synth_sim/vsdbaby
 POST_SYNTHESIS SIMULATION AND WAVEFORMS
 ---
 ## Step 1: Compile the Testbench
-Run the following iverilog command to compile the testbench:
+Run the following iverilog command to compile the testbench:  
+
+<img width="1065" height="587" alt="image" src="https://github.com/user-attachments/assets/dbd2b77b-0e94-4109-886f-e29a49445f87" />
+
 
 ```
 iverilog -o /home/zakir/Desktop/week3Labs/part1/post_synth_sim/post_synth_sim.out -DPOST_SYNTH_SIM -DFUNCTIONAL -DUNIT_DELAY=#1 -I /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/include -I /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/module /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/module/testbench.v
 ```
+<img width="899" height="342" alt="image" src="https://github.com/user-attachments/assets/b79e8f76-9203-40a9-b136-4578a6de7487" />
 
-<img width="1487" height="437" alt="image" src="https://github.com/user-attachments/assets/677a6dd4-9bf7-44cf-87d6-4e45bc7ce3f0" />
+<img width="817" height="468" alt="image" src="https://github.com/user-attachments/assets/c3a0220b-785e-40cc-b00a-2c1c41d426df" />
+
 ```
 cd output/post_synth_sim/
 ```
