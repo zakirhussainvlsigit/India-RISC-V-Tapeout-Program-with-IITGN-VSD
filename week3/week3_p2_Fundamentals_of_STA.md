@@ -32,8 +32,6 @@ It examines all possible timing paths to ensure they meet **setup and hold const
 
 ---
 
----
-
 
 **Interpretation:**
 - **Setup Check:** Data must arrive *before* the capture edge by the setup time.  
@@ -55,12 +53,12 @@ Slack indicates **timing margin** — how much earlier or later a signal arrives
 
 **Example:**
 ```
-
 Required Arrival Time = 5.00 ns
 Actual Arrival Time   = 4.75 ns
 Slack = +0.25 ns (Positive)
 
 ```
+
 
 > 🧭 **Note:** The goal of timing closure is to achieve **non-negative slack** on *all* paths under all process-voltage-temperature (PVT) corners.
 
