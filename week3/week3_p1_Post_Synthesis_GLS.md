@@ -3,9 +3,9 @@
 ## Step 1: read the verilog modules and other required files
 ```
 yosys
-read_verilog /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/module/vsdbabysoc.v
-read_verilog -I /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/include /home/zakir/Desktop/week2Labs/VSDBabySoC/output/compiled_tlv/rvmyth.v
-read_verilog -I /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/include /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/module/clk_gate.v
+read_verilog /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/module/vsdbabysoc.v
+read_verilog -I /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/include /home/zakir/Desktop/week2Labs/VSDBabySoC/output/compiled_tlv/rvmyth.v
+read_verilog -I /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/include /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/module/clk_gate.v
 ```
 
 <img width="810" height="497" alt="image" src="https://github.com/user-attachments/assets/6c6832e7-d7bd-47d8-b61b-09d9545f99f0" />
@@ -18,9 +18,9 @@ read_verilog -I /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/include /home/za
 
 ## Step 2: read the standard cell library, liberty file
 ```
-read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/avsdpll.lib
-read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/avsddac.lib
-read_liberty -lib /home/zakir/Desktop/week3Labs/p1/VSDBabySoC/src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_liberty -lib /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/lib/avsdpll.lib
+read_liberty -lib /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/lib/avsddac.lib
+read_liberty -lib /home/zakir/Desktop/week3Labs/part1/VSDBabySoC/src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 ```
 
 <img width="1127" height="573" alt="image" src="https://github.com/user-attachments/assets/f29ad963-02e6-4f30-9f21-dfc7f59bb9a6" />
