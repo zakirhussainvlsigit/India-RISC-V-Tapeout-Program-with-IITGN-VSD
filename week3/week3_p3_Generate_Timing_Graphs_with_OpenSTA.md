@@ -66,7 +66,7 @@ The above command will produce several files in the folder named sta_output, amo
 From those file prepare the following table
 
 | PVT corner |	Worst seup slack |	Worst hold slack |	WNS |	TNS |
-|---|---|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|
 | sky130_fd_sc_hd__tt_025C_1v80.lib |	INF	| INF	| 0	| 0 |
 | sky130_fd_sc_hd__ff_100C_1v65.lib	| INF	| INF	| 0	| 0 |
 | sky130_fd_sc_hd__ff_100C_1v95.lib |	INF	| INF	| 0	| 0 |
