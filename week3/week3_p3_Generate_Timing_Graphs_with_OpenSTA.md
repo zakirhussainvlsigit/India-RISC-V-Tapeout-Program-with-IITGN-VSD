@@ -57,4 +57,31 @@ report_wns -digits {4} >> ./sta_output/sta_wns.txt
 ```
 sta sta_across_pvt.tcl
 ```
+The above command will produce several files in the folder named sta_output, among them 4 important files are
+1. sta_tns.txt
+2. sta_wns.txt
+3. sta_worst_max_slack.txt
+4. sta_worst_min_slack.txt
 
+From those file prepare the following table
+
+| PVT corner |	Worst seup slack |	Worst hold slack |	WNS |	TNS |
+|---|---|---|---|---|
+| sky130_fd_sc_hd__tt_025C_1v80.lib |	INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ff_100C_1v65.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ff_100C_1v95.lib |	INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ff_n40C_1v56.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ff_n40C_1v65.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ff_n40C_1v76.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_100C_1v40.lib |	INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_100C_1v60.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_n40C_1v28.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_n40C_1v35.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_n40C_1v40.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_n40C_1v44.lib	| INF	| INF	| 0	| 0 |
+| sky130_fd_sc_hd__ss_n40C_1v76.lib	| INF	| INF	| 0	| 0 |
+| avsddac.lib	| INF	| INF	| 0	| 0 |
+| avsdpll.lib	| INF	| INF	| 0	| 0 |
+
+
+   
