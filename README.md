@@ -56,6 +56,14 @@ All open-source EDA tools are required to be installed in Week-0.
 
 👉 [Click here for Week-4 Activities](week4)
 
+---
+
+## Find the link below for the detailed activities document
+
+📄 [Click me for details](Week-4-Tasks.pdf)
+
+---
+
 ## 📝 Week 4 Deliverables — CMOS Circuit Design (sky130)
 
 For quick reference, the **Week 4 deliverables** include the following sections:
