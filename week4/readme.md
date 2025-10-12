@@ -11,3 +11,8 @@ This hands-on experience will help:
 * Build **strong intuition** about how **slack** and **delay** are affected by device-level characteristics.
 * Understand **noise margins** and their practical implications.
 * Appreciate how **process variation** impacts circuit performance.
+
+---
+## Find the link below for the detailed activities document
+
+📄 [Click me for details](Week-4-Tasks.pdf)
