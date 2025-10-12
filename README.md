@@ -47,3 +47,11 @@ All open-source EDA tools are required to be installed in Week-0.
 
 - **Part 3 – Generate Timing Graphs with OpenSTA**  
   📄 [Part-3 Activities](week3/week3_p3_Generate_Timing_Graphs_with_OpenSTA.md)
+
+---
+
+### Week-4 Activities
+
+**The following link will provide the details of Week-4 Activities**
+
+👉 [Click here for Week-4 Activities](week4)
