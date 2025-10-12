@@ -13,6 +13,4 @@ This hands-on experience will help:
 * Appreciate how **process variation** impacts circuit performance.
 
 ---
-## Find the link below for the detailed activities document
 
-📄 [Click me for details](Week-4-Tasks.pdf)
