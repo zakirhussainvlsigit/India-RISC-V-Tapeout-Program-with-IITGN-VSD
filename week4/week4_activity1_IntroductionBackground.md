@@ -1,8 +1,8 @@
 ---
-## Week4 : Avtivity-1 Introduction/Background
+# Week4 : Activity-1 Introduction/Background
 
 
-# 📘 Basic CMOS Characterization — Key Concepts
+## 📘 Basic CMOS Characterization — Key Concepts
 
 This document gives a **brief introduction** to the most commonly performed **characterization analyses** in CMOS circuits. These measurements help us understand and optimize the **electrical behavior** of transistors and logic gates.
 
