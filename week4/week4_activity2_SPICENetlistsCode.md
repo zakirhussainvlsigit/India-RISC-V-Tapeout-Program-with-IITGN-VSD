@@ -2,7 +2,7 @@
 # Week4: Activity-2 SPICE Netlists Code
 
 ---
-## Day1
+## Day1 : Output Characteristics 
 ```
 *Model Description
 .param temp=27
@@ -38,7 +38,7 @@ setplot dc1
 .end
 ```
 ---
-Day2: Id vs Vds
+## Day2: Id vs Vds
 ```
 *Model Description
 .param temp=27
@@ -76,7 +76,7 @@ setplot dc1
 
 ```
 ---
-Day2: Id vs Vgs
+## Day2: Id vs Vgs
 ```
 *Model Description
 .param temp=27
@@ -111,7 +111,7 @@ setplot dc1
 
 ```
 ---
-Day3: Transient analysis
+## Day3: Transient analysis
 
 ```
 *Model Description
@@ -145,7 +145,7 @@ run
 .end
 ```
 ---
-Day3: VTC
+## Day3: VTC
 ```
 *Model Description
 .param temp=27
@@ -183,7 +183,7 @@ display
 
 ```
 ---
-Day4: Noise margin
+## Day4: Noise margin
 ```
 *Model Description
 .param temp=27
@@ -220,7 +220,7 @@ display
 .end
 ```
 ---
-Day5: Device variation
+## Day5: Device variation
 ```
 *Model Description
 .param temp=27
@@ -258,7 +258,7 @@ display
 
 ```
 ---
-Day5: Supply variation
+## Day5: Supply variation
 ```
 *Model Description
 .param temp=27
