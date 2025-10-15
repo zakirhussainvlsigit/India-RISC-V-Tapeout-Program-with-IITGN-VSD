@@ -1,7 +1,7 @@
 ---
 ## The following are the Week-4 activities
 
-```markdown
+
 # 📘 Basic CMOS Characterization — Key Concepts
 
 This document gives a **brief introduction** to the most commonly performed **characterization analyses** in CMOS circuits. These measurements help us understand and optimize the **electrical behavior** of transistors and logic gates.
