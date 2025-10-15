@@ -1,5 +1,5 @@
 ---
-# Week4 : Activity-1 Introduction/Background
+# Week4: Activity-1 Introduction/Background
 
 
 ## 📘 Basic CMOS Characterization — Key Concepts
