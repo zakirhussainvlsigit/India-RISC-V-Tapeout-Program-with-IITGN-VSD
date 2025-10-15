@@ -50,7 +50,7 @@ All open-source EDA tools are required to be installed in Week-0.
 
 ---
 
-### Week-4 Activities
+## Week-4 Activities
 
 **The following link will provide the details of Week-4 Activities**
 
