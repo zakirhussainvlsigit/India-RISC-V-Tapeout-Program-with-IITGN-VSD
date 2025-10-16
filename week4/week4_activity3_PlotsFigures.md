@@ -43,6 +43,9 @@
 
 ## Day4- Noise margin 
 
+<img width="782" height="467" alt="image" src="https://github.com/user-attachments/assets/08366f22-6fa6-4118-92eb-ea070929ed41" />
+
+
 
 
 
