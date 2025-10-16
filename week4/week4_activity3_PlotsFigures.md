@@ -28,6 +28,8 @@
 
 <img width="1146" height="767" alt="image" src="https://github.com/user-attachments/assets/ee76466d-13f4-43fa-93cb-179717272ba2" />
 
+---
+
 ## Day3- VTC of CMOS Inverter
 
 <img width="1201" height="697" alt="image" src="https://github.com/user-attachments/assets/256bbaa1-ed8c-4817-829d-124ea9b9be39" />
@@ -36,6 +38,8 @@
 ## Day3- Transient analysis 
 
 <img width="1118" height="691" alt="image" src="https://github.com/user-attachments/assets/a0e6b92f-95b8-4c29-9755-3bb12cc3f9de" />
+
+---
 
 ## Day4- Noise margin 
 
