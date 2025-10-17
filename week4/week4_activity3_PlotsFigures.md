@@ -57,6 +57,15 @@
 
  <img width="1065" height="401" alt="image" src="https://github.com/user-attachments/assets/31af0180-79ae-4ca8-8cd8-c78bed6ad484" />
 
+ ## Day5- Part1: Power supply variations 
+
+ <img width="977" height="691" alt="image" src="https://github.com/user-attachments/assets/a56e0528-27ce-4164-8ab0-e4cb0d296b86" />
+
+ ## Day5- Part2: Device variations 
+
+ <img width="1428" height="738" alt="image" src="https://github.com/user-attachments/assets/dd38b102-fb2f-433e-af6d-e97d59dbf5f7" />
+
+
 
 
 
