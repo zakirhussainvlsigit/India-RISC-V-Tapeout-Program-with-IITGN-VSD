@@ -53,6 +53,11 @@
 
  <img width="1497" height="809" alt="image" src="https://github.com/user-attachments/assets/f2317cf7-f93a-47f2-8edf-d37d6d359ebb" />
 
+ ### Noise-margin calculations 
+
+ <img width="1065" height="401" alt="image" src="https://github.com/user-attachments/assets/31af0180-79ae-4ca8-8cd8-c78bed6ad484" />
+
+
 
 
 
