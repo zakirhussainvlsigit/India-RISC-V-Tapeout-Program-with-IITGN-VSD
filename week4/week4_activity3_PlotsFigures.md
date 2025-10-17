@@ -51,7 +51,8 @@
 
 ### VOL and VIH - Values
 
-  <img width="1497" height="727" alt="image" src="https://github.com/user-attachments/assets/ee5f2cdc-5625-40b5-9314-b79168db42a0" />
+ <img width="1497" height="809" alt="image" src="https://github.com/user-attachments/assets/f2317cf7-f93a-47f2-8edf-d37d6d359ebb" />
+
 
 
 
